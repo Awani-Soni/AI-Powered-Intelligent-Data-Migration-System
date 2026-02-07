@@ -1,0 +1,15 @@
+order_id
+customer_key
+first_name
+last_name
+email_address
+mobile_number
+city
+state
+order_date
+product_category
+gross_amount
+discount_amount
+net_order_value
+payment_method
+order_state
